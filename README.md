@@ -1,1 +1,1 @@
-I do not own any of these sites.
+please star this :)
