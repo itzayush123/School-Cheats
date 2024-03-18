@@ -1,1 +1,1 @@
-bookmarking these sites may make the website get blocked faster. i recommend disabling goguardian before using these sites. i also dont own any of these sites. and one more thing, u should star this :D
+i stopped updating this
